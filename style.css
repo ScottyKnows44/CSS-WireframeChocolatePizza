@@ -1,1 +1,100 @@
+body {
+  width: 1200px;
+}
 
+header {
+  width: 900px;
+  height: 50px;
+  margin: 0px auto;
+  margin-left: 300px;
+}
+#logo {
+float: left;  
+}
+
+#pizza {
+  width: 900px;
+  margin: 0px auto;
+  margin-left: 300px;
+}
+
+#textContainer h1 {
+  margin: 0px auto;
+}
+
+#textContainer p {
+  margin: 0px auto;
+}
+#textContainer {
+  width: 30%;
+  float: left;
+  font-size: 10px;
+  
+}
+
+#social {
+  float: right;
+  width: 30%;
+  margin: 0px auto;
+}
+
+
+
+#words {
+  width: 900px;
+  margin-left: 300px;
+  margin-right: 300px; 
+}
+
+#heropicture {
+  width: 900px;
+  margin: 0px auto;
+  margin-left: 300px;
+}
+
+#list {
+  columns: 2;
+  background-image: url("https://raw.githubusercontent.com/codefellows/seattle-201d32/master/class-10-js_debugging-wireframe_part_2/lab/lab-assets/list-bg.png");
+  width: 800px;
+  margin: 0 auto;
+  padding: 50px;
+  margin-left: 300px;
+}
+
+button {
+  float: right;
+  margin: 0px auto;
+  margin-right: 300px;
+}
+#bottomtext {
+  width: 30%;
+  float: left;
+  margin: 0px auto;
+  width: 30%;
+}
+
+#face {
+  float: left;
+  margin: 0px auto;
+  margin-left: 300px;
+}
+
+footer {
+  text-align: center;
+  margin: 0px auto;
+  width: 30%;
+  margin-left: 500px;
+}
+
+#toplarge {
+font-size: 20px;
+}
+
+bottomsmall{
+font-size: 15px;
+}
+footer img {
+  margin: 0px auto;
+  margin-left: 100px;
+
+}
